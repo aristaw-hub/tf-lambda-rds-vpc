@@ -1,5 +1,5 @@
 locals {
-  name_prefix = "sandbox-aw"
+  name_prefix = "sandbox-arista"
   tags = {
     Purpose = "CE 12 - Coaching 11"
   }
